@@ -1,7 +1,4 @@
-# Natália Batista
 
-<p>If I have seen further it is by standing on the shoulders of Giants.</p>
-<br>
 <div style="display: inline_block">
   <img align="center" alt="Nat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nat-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
